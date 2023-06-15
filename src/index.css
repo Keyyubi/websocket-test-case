@@ -23,7 +23,7 @@ body {
 
 #root {
   display: flex;
-  max-width: 1280px;
+  width: 90vw;
   padding: 2rem;
   text-align: center;
 }
